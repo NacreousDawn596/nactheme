@@ -21,7 +21,7 @@ just a simple pretty and awesome theme to use along with oh my bash :D
 Install NacTheme with git
 
 ```bash
-  git clone https://github.com/NacreousDawn596/nactheme ~/.oh-my-bash/themes/
+  git clone https://github.com/NacreousDawn596/nactheme ~/.oh-my-bash/themes/nactheme
 ```
 
 then by editing `OSH_THEME` variable on your ~/.bashrc to `nactheme` you will be able to use my theme after reloading the terminal ^^
